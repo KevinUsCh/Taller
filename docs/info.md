@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Desarrollo de VGA playground, anadiendo el LOGO de universidad Galileo, haciendo copia del repositorio para luego reemplazar los archivos por los propios y con ello modificarlos para adaptarlos.
 
 ## How to test
 
