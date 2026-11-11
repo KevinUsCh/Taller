@@ -13,8 +13,8 @@ Desarrollo de VGA playground, anadiendo el LOGO de universidad Galileo, haciendo
 
 ## How to test
 
-Explain how to use your project
+Se hizo convirtiendo la imagen a verilog.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Pues se tiene los niveles o porcentajes.
